@@ -1,6 +1,9 @@
 
 #支持私库
-docker.elastic.co/logstash/logstash:8.10.2 
+#docker.elastic.co/logstash/logstash:8.10.2 
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+
+onlyoffice/documentserver:latest
+--platform=centos/x86
